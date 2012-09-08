@@ -1,4 +1,4 @@
-tictactoe-angularjs
+tictactoe-js
 ===================
 
-Tic Tac Toe Game written in AngularJS
+Tic Tac Toe Game written in Javascript
